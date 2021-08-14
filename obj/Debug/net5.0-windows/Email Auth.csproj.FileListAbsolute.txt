@@ -1,0 +1,23 @@
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.exe
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.deps.json
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.runtimeconfig.json
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.runtimeconfig.dev.json
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\ref\Email Auth.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\Email Auth.pdb
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\DidiSoft.BouncyCastle.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\DidiSoft.Pgp.Mail.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\DidiSoft.Pgp.Net.LdapClient.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\bin\Debug\net5.0-windows\DidiSoft.Pgp.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email_Auth.PLL.MainForm.resources
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.csproj.GenerateResource.cache
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.AssemblyInfoInputs.cache
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.AssemblyInfo.cs
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.csproj.CoreCompileInputs.cache
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.csproj.CopyComplete
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\ref\Email Auth.dll
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.pdb
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.genruntimeconfig.cache
+C:\Users\yasse\source\repos\Email Auth\Email Auth\obj\Debug\net5.0-windows\Email Auth.csprojAssemblyReference.cache

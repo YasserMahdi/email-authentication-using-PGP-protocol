@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "DidiSoft.Pgp.Trial/1.9.3.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/DidiSoft.BouncyCastle.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.Mail.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.Net.LdapClient.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/DidiSoft.BouncyCastle.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.Mail.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.Net.LdapClient.dll": {},
+          "lib/netstandard2.1/DidiSoft.Pgp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DidiSoft.Pgp.Trial/1.9.3.36": {
+      "sha512": "XpvajdOZSzoGV2YbLEu1sBFfZBsLD0UNPBqeNThPtCxJMTPq+ol7MZ4KwkQdqJmCL4dxLbDSgHLj5WSl63dRnw==",
+      "type": "package",
+      "path": "didisoft.pgp.trial/1.9.3.36",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "didisoft.pgp.trial.1.9.3.36.nupkg.sha512",
+        "didisoft.pgp.trial.nuspec",
+        "lib/net20/DidiSoft.BouncyCastle.dll",
+        "lib/net20/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/net20/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/net20/DidiSoft.Pgp.Smartcard.dll",
+        "lib/net20/DidiSoft.Pgp.Smartcard.xml",
+        "lib/net20/DidiSoft.Pgp.dll",
+        "lib/net20/DidiSoft.Pgp.xml",
+        "lib/net40/DidiSoft.BouncyCastle.dll",
+        "lib/net40/DidiSoft.Pgp.Mail.dll",
+        "lib/net40/DidiSoft.Pgp.Mail.xml",
+        "lib/net40/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/net40/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/net40/DidiSoft.Pgp.Smartcard.dll",
+        "lib/net40/DidiSoft.Pgp.Smartcard.xml",
+        "lib/net40/DidiSoft.Pgp.dll",
+        "lib/net40/DidiSoft.Pgp.xml",
+        "lib/net45/DidiSoft.BouncyCastle.dll",
+        "lib/net45/DidiSoft.Pgp.Mail.dll",
+        "lib/net45/DidiSoft.Pgp.Mail.xml",
+        "lib/net45/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/net45/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/net45/DidiSoft.Pgp.Smartcard.dll",
+        "lib/net45/DidiSoft.Pgp.Smartcard.xml",
+        "lib/net45/DidiSoft.Pgp.dll",
+        "lib/net45/DidiSoft.Pgp.xml",
+        "lib/netcore45/DidiSoft.BouncyCastle.dll",
+        "lib/netcore45/DidiSoft.Pgp.WinRT.pri",
+        "lib/netcore45/DidiSoft.Pgp.WinRT.winmd",
+        "lib/netcore45/DidiSoft.Pgp.WinRT.xml",
+        "lib/netcore45/DidiSoft.Pgp.dll",
+        "lib/netcore45/DidiSoft.Pgp.pri",
+        "lib/netstandard1.6/DidiSoft.BouncyCastle.dll",
+        "lib/netstandard1.6/DidiSoft.Pgp.Mail.dll",
+        "lib/netstandard1.6/DidiSoft.Pgp.Mail.xml",
+        "lib/netstandard1.6/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/netstandard1.6/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/netstandard1.6/DidiSoft.Pgp.dll",
+        "lib/netstandard1.6/DidiSoft.Pgp.xml",
+        "lib/netstandard2.0/DidiSoft.BouncyCastle.dll",
+        "lib/netstandard2.0/DidiSoft.Pgp.Mail.dll",
+        "lib/netstandard2.0/DidiSoft.Pgp.Mail.xml",
+        "lib/netstandard2.0/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/netstandard2.0/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/netstandard2.0/DidiSoft.Pgp.dll",
+        "lib/netstandard2.0/DidiSoft.Pgp.xml",
+        "lib/netstandard2.1/DidiSoft.BouncyCastle.dll",
+        "lib/netstandard2.1/DidiSoft.Pgp.Mail.dll",
+        "lib/netstandard2.1/DidiSoft.Pgp.Mail.xml",
+        "lib/netstandard2.1/DidiSoft.Pgp.Net.LdapClient.dll",
+        "lib/netstandard2.1/DidiSoft.Pgp.Net.LdapClient.xml",
+        "lib/netstandard2.1/DidiSoft.Pgp.dll",
+        "lib/netstandard2.1/DidiSoft.Pgp.xml",
+        "lib/sl4/DidiSoft.BouncyCastle.dll",
+        "lib/sl4/DidiSoft.Pgp.dll",
+        "lib/sl4/DidiSoft.Pgp.xml",
+        "lib/uap/DidiSoft.BouncyCastle.dll",
+        "lib/uap/DidiSoft.Pgp.dll",
+        "lib/uap/DidiSoft.Pgp.xml",
+        "lib/wp8/DidiSoft.BouncyCastle.dll",
+        "lib/wp8/DidiSoft.Pgp.dll",
+        "lib/wp8/DidiSoft.Pgp.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "DidiSoft.Pgp.Trial >= 1.9.3.36"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yasse\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yasse\\source\\repos\\Email Auth\\Email Auth\\Email Auth.csproj",
+      "projectName": "Email Auth",
+      "projectPath": "C:\\Users\\yasse\\source\\repos\\Email Auth\\Email Auth\\Email Auth.csproj",
+      "packagesPath": "C:\\Users\\yasse\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yasse\\source\\repos\\Email Auth\\Email Auth\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yasse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "DidiSoft.Pgp.Trial": {
+            "target": "Package",
+            "version": "[1.9.3.36, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
